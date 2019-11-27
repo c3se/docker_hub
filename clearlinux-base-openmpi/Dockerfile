@@ -1,2 +1,2 @@
 FROM clearlinux:base
-RUN swupd bundle-add openmpi
+RUN swupd bundle-add openssh-client openmpi
